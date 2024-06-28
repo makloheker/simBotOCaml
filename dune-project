@@ -7,9 +7,9 @@
 (source
  (github username/reponame))
 
-(authors "Author Name")
+(authors "Angga")
 
-(maintainers "Maintainer Name")
+(maintainers "Ya siapa lagi kalau bukan gw")
 
 (license LICENSE)
 
@@ -17,9 +17,9 @@
 
 (package
  (name omagat)
- (synopsis "A short synopsis")
- (description "A longer description")
- (depends ocaml dune)
+ (synopsis "dongok")
+ (description "jemboets apa yang panjang? yak betul deskripsi lu kek jembot")
+ (depends ocaml dune cohttp cohttp-lwt-unix lwt_ssl yojson)
  (tags
   (topics "to describe" your project)))
 

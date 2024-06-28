@@ -1,4 +1,4 @@
 (executable
  (public_name omagat)
  (name main)
- (libraries omagat))
+ (libraries omagat cohttp-lwt-unix lwt lwt_ssl yojson))
