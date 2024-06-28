@@ -1,0 +1,6 @@
+# dune init proj omagat
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/poi/.cache/dune/db
+# Workspace root: /home/poi/Documents/botSimsimi/ocaml/omagat
+# Auto-detected concurrency: 2
